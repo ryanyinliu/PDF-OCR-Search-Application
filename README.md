@@ -2,6 +2,7 @@
 ## This program is designed to open a PDF, and search the PDF for word(s). It converts each page into an image before doing OCR (Optical Character Recognition). 
 
 # Installation:
+https://drive.google.com/drive/folders/1w1VCDUK1GQtLj5CZxjnglJ0SZFusjv9Y?usp=drive_link
 ## Download and unzip program
 ## 1. Install the zipped folder
 ## 2. Unzip the folder
